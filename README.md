@@ -13,6 +13,7 @@ Project is created with:
 * Tensorflow
 * PyQt version: 5
 * Python
+* GloVe (https://www.kaggle.com/datasets/watts2/glove6b50dtxt)
 
 ## Usage
 * Copy all files from project folder and start .py file.
